@@ -19,8 +19,7 @@
   flex-wrap: wrap;
   position: absolute;
   right: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
   padding-right: 45px;
 }
 .save-btn {
