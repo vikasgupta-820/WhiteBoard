@@ -12,7 +12,7 @@ This project is a simple whiteboard application built with ReactJS and RoughJS. 
 
 ## Screenshot
 
-![Whiteboard App Screenshot](src\assets\Draw.png)
+![Whiteboard App Screenshot](src/assets/Draw.png)
 
 ## Getting Started
 
