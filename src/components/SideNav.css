@@ -39,3 +39,32 @@
 .save-btn:hover {
   background-color: #c8defc;
 }
+
+@media (max-width: 600px) {
+  .multi-button{
+    width: 40px !important;
+  }
+  .multi-button button {
+    width: 30px;
+    height: 30px;
+    background-color: #ebf0f6;
+    border: none;
+    padding: 0.2em 0.4em;
+    outline: none;
+    margin: 5px;
+  }
+}
+@media (max-width: 768px) {
+  .multi-button{
+    width: 40px !important;
+  }
+  .multi-button button {
+    width: 30px;
+    height: 30px;
+    background-color: #ebf0f6;
+    border: none;
+    padding: 0.2em 0.4em;
+    outline: none;
+    margin: 5px;
+  }
+}
